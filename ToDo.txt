@@ -1,0 +1,5 @@
+    ✔ Add the daily/weekly/monthly quests
+    ✔ Add a way to count what have been done
+    ❌ Add a way to save and reload it
+    ❌ Add sounds when quests are completed
+    ❌ Add secret quests
